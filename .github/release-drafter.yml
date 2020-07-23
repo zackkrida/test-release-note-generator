@@ -1,6 +1,5 @@
 # Configuration for the release-drafter action
 # See docs here: https://github.com/marketplace/actions/release-drafter
-
 name-template: "v$RESOLVED_VERSION"
 tag-template: "v$RESOLVED_VERSION"
 categories:
